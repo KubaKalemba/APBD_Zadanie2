@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kuba/Desktop/zadanie/LegacyApp/LegacyApp.csproj": {}
+    "/Users/kuba/Desktop/Computer science/zadanie/LegacyApp/LegacyApp.csproj": {}
   },
   "projects": {
-    "/Users/kuba/Desktop/zadanie/LegacyApp/LegacyApp.csproj": {
+    "/Users/kuba/Desktop/Computer science/zadanie/LegacyApp/LegacyApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kuba/Desktop/zadanie/LegacyApp/LegacyApp.csproj",
+        "projectUniqueName": "/Users/kuba/Desktop/Computer science/zadanie/LegacyApp/LegacyApp.csproj",
         "projectName": "LegacyApp",
-        "projectPath": "/Users/kuba/Desktop/zadanie/LegacyApp/LegacyApp.csproj",
+        "projectPath": "/Users/kuba/Desktop/Computer science/zadanie/LegacyApp/LegacyApp.csproj",
         "packagesPath": "/Users/kuba/.nuget/packages/",
-        "outputPath": "/Users/kuba/Desktop/zadanie/LegacyApp/obj/",
+        "outputPath": "/Users/kuba/Desktop/Computer science/zadanie/LegacyApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kuba/.nuget/NuGet/NuGet.Config"

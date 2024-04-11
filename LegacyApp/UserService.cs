@@ -42,14 +42,14 @@ namespace LegacyApp
 
             UserDataAccess.AddUser(user);
             return true;
-        }
+        } 
 
-        private bool IsValidName(string name)
+        private static bool IsValidName(string name)
         {
             return string.IsNullOrEmpty(name);
         }
 
-        private bool IsValidEmail(string email)
+        private static bool IsValidEmail(string email)
         {
             return email.Contains("@") && email.Contains(".");
         }
@@ -63,12 +63,12 @@ namespace LegacyApp
             return age>21;
         }
 
-        private bool IsUserValid(User user)
+        private static bool IsUserValid(User user)
         {
             return !user.HasCreditLimit || user.CreditLimit >= 500;
         }
 
-        private void UpdateCreditLimit(User user)
+        private static void UpdateCreditLimit(User user)
         {
             var client = user.Client;
             if (client.Type == "VeryImportantClient")

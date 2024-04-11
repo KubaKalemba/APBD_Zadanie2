@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kuba/Desktop/zadanie/LegacyAppConsumer/LegacyAppConsumer.csproj": {}
+    "/Users/kuba/Desktop/Computer science/zadanie/LegacyAppConsumer/LegacyAppConsumer.csproj": {}
   },
   "projects": {
-    "/Users/kuba/Desktop/zadanie/LegacyApp/LegacyApp.csproj": {
+    "/Users/kuba/Desktop/Computer science/zadanie/LegacyApp/LegacyApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kuba/Desktop/zadanie/LegacyApp/LegacyApp.csproj",
+        "projectUniqueName": "/Users/kuba/Desktop/Computer science/zadanie/LegacyApp/LegacyApp.csproj",
         "projectName": "LegacyApp",
-        "projectPath": "/Users/kuba/Desktop/zadanie/LegacyApp/LegacyApp.csproj",
+        "projectPath": "/Users/kuba/Desktop/Computer science/zadanie/LegacyApp/LegacyApp.csproj",
         "packagesPath": "/Users/kuba/.nuget/packages/",
-        "outputPath": "/Users/kuba/Desktop/zadanie/LegacyApp/obj/",
+        "outputPath": "/Users/kuba/Desktop/Computer science/zadanie/LegacyApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kuba/.nuget/NuGet/NuGet.Config"
@@ -57,14 +57,14 @@
         }
       }
     },
-    "/Users/kuba/Desktop/zadanie/LegacyAppConsumer/LegacyAppConsumer.csproj": {
+    "/Users/kuba/Desktop/Computer science/zadanie/LegacyAppConsumer/LegacyAppConsumer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kuba/Desktop/zadanie/LegacyAppConsumer/LegacyAppConsumer.csproj",
+        "projectUniqueName": "/Users/kuba/Desktop/Computer science/zadanie/LegacyAppConsumer/LegacyAppConsumer.csproj",
         "projectName": "LegacyAppConsumer",
-        "projectPath": "/Users/kuba/Desktop/zadanie/LegacyAppConsumer/LegacyAppConsumer.csproj",
+        "projectPath": "/Users/kuba/Desktop/Computer science/zadanie/LegacyAppConsumer/LegacyAppConsumer.csproj",
         "packagesPath": "/Users/kuba/.nuget/packages/",
-        "outputPath": "/Users/kuba/Desktop/zadanie/LegacyAppConsumer/obj/",
+        "outputPath": "/Users/kuba/Desktop/Computer science/zadanie/LegacyAppConsumer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kuba/.nuget/NuGet/NuGet.Config"
@@ -79,8 +79,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/kuba/Desktop/zadanie/LegacyApp/LegacyApp.csproj": {
-                "projectPath": "/Users/kuba/Desktop/zadanie/LegacyApp/LegacyApp.csproj"
+              "/Users/kuba/Desktop/Computer science/zadanie/LegacyApp/LegacyApp.csproj": {
+                "projectPath": "/Users/kuba/Desktop/Computer science/zadanie/LegacyApp/LegacyApp.csproj"
               }
             }
           }
