@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "SdBboJ6IYy+F7NzQe5ISlWSxK2iBWNCvL/5BAkHF2fboBNnOGTe+ZpeZTMuXlPQ0SOi1exv3psVWWbXV/g6vkA==",
+  "success": true,
+  "projectFilePath": "/Users/kuba/Desktop/Computer science/zadanie/LegacyApp.Tests/LegacyApp.Tests.csproj",
+  "expectedPackageFiles": [
+    "/Users/kuba/.nuget/packages/microsoft.codecoverage/17.9.0/microsoft.codecoverage.17.9.0.nupkg.sha512",
+    "/Users/kuba/.nuget/packages/microsoft.net.test.sdk/17.9.0/microsoft.net.test.sdk.17.9.0.nupkg.sha512",
+    "/Users/kuba/.nuget/packages/microsoft.testplatform.objectmodel/17.9.0/microsoft.testplatform.objectmodel.17.9.0.nupkg.sha512",
+    "/Users/kuba/.nuget/packages/microsoft.testplatform.testhost/17.9.0/microsoft.testplatform.testhost.17.9.0.nupkg.sha512",
+    "/Users/kuba/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/kuba/.nuget/packages/nunit/4.1.0/nunit.4.1.0.nupkg.sha512",
+    "/Users/kuba/.nuget/packages/nunit3testadapter/4.5.0/nunit3testadapter.4.5.0.nupkg.sha512",
+    "/Users/kuba/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
